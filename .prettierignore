@@ -1,0 +1,5 @@
+dist
+coverage
+package-lock.json
+# Hand-written docs (CLAUDE.md, SPEC.md, TASKS.md) are kept as authored.
+*.md
